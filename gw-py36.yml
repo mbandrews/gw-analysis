@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+dependencies:
+- gwpy
+- scikit-learn
+- pycbc
+- matplotlib
+- python=3.6
+- h5py
+- scikit-image
+- jupyter
+- python-ldas-tools-framecpp
+- gwdatafind
+- pyarrow
+- pandas
+- root
+name: gw-py36

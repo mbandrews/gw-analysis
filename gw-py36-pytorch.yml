@@ -1,0 +1,23 @@
+channels:
+- pytorch
+- nvidia
+- conda-forge
+dependencies:
+- gwpy
+- scikit-learn
+- pycbc
+- matplotlib
+- python=3.6
+- h5py
+- scikit-image
+- jupyter
+- python-ldas-tools-framecpp
+- gwdatafind
+- pyarrow
+- pytorch
+- torchvision
+- torchaudio
+- cudatoolkit=11.1
+- pandas
+- root
+name: gw-pyt

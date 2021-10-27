@@ -1,0 +1,15 @@
+*.pdf
+*.gwf
+*.parquet
+*.txt
+*.json
+*.log
+*.pkl
+*.png
+*.zip
+*.npy
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+data/kaggle/
+archive/
